@@ -1,4 +1,4 @@
-#Thunderstorm Effect Simulation Using HTML, CSS, and JavaScript
+# Thunderstorm Effect Simulation Using HTML, CSS, and JavaScript
 This project is a fun and immersive web-based simulation of a thunderstorm, created using pure HTML, CSS, and JavaScript. The goal of this project is to simulate the natural ambiance of a thunderstorm, complete with flashes of lightning and thunder sounds, providing a realistic and engaging experience for users.
 
 Key Features:
